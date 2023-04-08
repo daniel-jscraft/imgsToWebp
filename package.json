@@ -1,0 +1,24 @@
+{
+  "name": "imgstowebp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-jscraft/imgsToWebp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-jscraft/imgsToWebp/issues"
+  },
+  "homepage": "https://github.com/daniel-jscraft/imgsToWebp#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompt-sync": "^4.2.0",
+    "sharp": "^0.32.0"
+  }
+}
